@@ -1,0 +1,172 @@
+.title {
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color:midnightblue;
+}
+.design{
+    padding:20px;
+    background-color:yellowgreen;
+}
+.page{
+    float: left;
+    width:30%;
+}
+.tableColor{
+    height: 1000%;
+    background-color:bisque;
+}
+h3{
+    background-color:yellowgreen;
+    color:white;
+}
+.column{
+    float:left;
+    width:60%;
+}
+.end{
+    float:left;
+    width:10%;
+}
+.main{
+    display:flex;
+    width:100%;
+}
+.bottom{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:midnightblue;
+    color:yellowgreen;
+    padding:20px;
+}
+.color_content{
+    color:darkslateblue;
+}
+
+body {
+    border-color: lightgray;
+    border-style: solid;
+    align-content: center;
+    margin-left: 22%;
+    max-width: 900px;
+    max-height: 1530px;
+    resize: both;
+}
+.action{
+    color:darkblue;
+}
+.logo {
+    width:50px; 
+    height:50px; 
+    margin-right:50px;
+    border-style:solid; 
+    border-width:1px;
+}
+.heading {
+    background-color: yellowgreen;
+    color: white;
+    padding-top:0.3em;
+    padding-bottom:0.3em;
+}
+.image{
+    margin-top:190px;
+}
+.secondImage{
+    margin-top:180px;
+}
+
+.footer {
+   margin-top:1180px; 
+   height:60px;
+   width:900px; 
+   background-color:yellowgreen;
+   text-align:center;
+}
+
+.flower {
+    width: 200px; 
+    height: 200px;
+}
+
+.imageAction {
+    width :25px; 
+    height:25px;
+    text-decoration: none;
+}
+.border{
+    border-color:darkturquoise;
+}
+
+.error {
+    color: red;
+    }
+.button{
+    color: midnightblue;
+    border:none;
+    background-color: white;
+}
+
+#ValidCard{
+    display: none;
+}
+
+#RequireCard{
+    display: none;
+}
+
+#ValidCode{
+    display: none;
+}
+
+#RequireCode{
+    display: none;
+}
+
+#ValidName{
+    display: none;
+}
+
+#RequireName{
+    display: none;
+}
+
+#ValidAddress{
+    display: none;
+}
+
+#RequireAddress{
+    display: none;
+}
+
+#ValidMobileNumber{
+    display: none;
+}
+
+#ValidEmail{
+    display: none;
+}
+
+#RequireEmail{
+    display: none;
+}
+
+#ValidPostcode{
+    display: none;
+}
+
+#RequirePostCode{
+    display: none;
+}
+
+#ValidCity{
+    display: none;
+}
+
+#RequireCity{
+    display: none;
+}
+
+#RequireDate{
+    display: none;
+}
+
+#RequireCountry{
+    display: none;
+}
